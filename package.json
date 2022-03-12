@@ -1,0 +1,14 @@
+{
+  "name": "merkleanswers",
+  "version": "1.0.0",
+  "description": "Answers to Merkle coding test",
+  "main": "partOne.js",
+  "scripts": {
+    "start:1": "nodemon partOne.js",
+    "start:2": "nodemon partTwo.js",
+    "start:3": "nodemon partThree.js",
+    "start:4": "nodemon partFour.js"
+  },
+  "author": "Brunel Johnson",
+  "license": "ISC"
+}
